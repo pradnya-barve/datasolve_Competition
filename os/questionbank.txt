@@ -1,0 +1,93 @@
+Assignement 1A:
+1.	Commands description
+2.	Syntax of all commands
+3.	Options related to commands(atleast 3)
+4.	echo, ls, read, cat, touch, test, loops, arithmetic comparison, conditional loops, grep, sed etc.
+
+Assignment 1B:
+1.	What is shell scripting?
+2.	What are different types of shell?
+3.	What is the use of shell scripting?
+4.	How to run code of shell scripting?
+******************************************************************
+Assignment 2:
+1.	What is system call?
+Ans: n. A system call is a way for programs to interact with the operating system. 
+
+2.	What is fork system call?
+Ans: fork system call is used to create new process.
+
+3.	What are the return values of fork?
+Ans: Return values of fork are zero,positive and negative.
+
+4.	What is pid?
+Ans : it is the id of proceess.
+
+5.	What is ppid?
+Ans : it is the id of parent process of process 
+
+6.	How to get the values of pid and ppid? (getpid, getppid)
+Ans: 
+7.	What is wait system call?
+8.	What is execve system call?
+9.	How to create orphan and zombie state using wait system call?
+Assignment 3:
+1.	What is waiting time?
+2.	What is turnaround time? // the total amount of time spend by process from arrival to complete is called turnaround time. 
+3.	What is Burst time? // the total amount of time required by the CPU to execute the whole process.
+4.	What is arrival time? // the time at which process enters in ready queue.
+5.	What is the formula for waiting time?
+6.	What is the formula for turnaround time?  // TA = WA + BT  or TA = CT - AT
+7.	What is other scheduling algorithm? // FCFS, ROUND ROBIN,
+8.	What are the criteria of SJF? // burst time is the criteria for SJF
+9.	What is the criteria for RR?  // time quantum is the criteria for ROUND ROBIN.
+
+Assignment 4:
+1.	What is producer consumer/reader writer problem?
+2.	What is up and down code?
+3.	What is pseudo code for producer consumer/Reader writer problem?
+4.	What is critical section?
+5.	What is mutual exclusion?
+6.	What is pseudo code for producer consumer / reader writer problem using sempahore?
+7.	Difference between producer and consumer/ reader writer?
+8.	What is process synchronization?
+
+Assignment No 5:
+1.	What is deadlock?
+2.	What are the necessary conditions for deadlock?
+3.	What is the use of bankers’ algorithm?
+4.	What are the Strategies to deal with deadlock? (Prevention, Avoidance, Detection and Recovery)
+5.	How bankers algorithm avoid deadlock?
+6.	What is need matrix, allocation matrix and maximum matrix?
+7.	Steps to solve the problem of banker algorithm?
+Assignment No 6:
+1.	What is virtual memory?
+2.	What is physical and logical address?
+3.	What is page?
+4.	What is frames?
+5.	Mapping of addresses?
+6.	What is the concept of paging?
+7.	What are the page replacement policies?
+8.	What is page fault?
+9.	What is page hit?
+10.	Concept of LRU, Optimal and FIFO in detail.
+11.	Difference between paging and segmentation.
+Assignment no 7:
+1.	What is Interprocess communication?
+2.	What is cooperating processes?
+3.	What are the two ways of interprocess communication (Message passing and shared memory)?
+4.	What is Message passing? Explain in detail
+5.	What is Shared memory? Explain in detail.
+6.	What is pipes?
+7.	Which functions are used to create pipes?
+8.	Which functions are used to create shared memory?
+Assignment No 8:
+1.	What is seek time?
+2.	What is the use of SSTF, SCAN and C-LOOK?
+3.	What is disk scheduling?
+4.	What is head?
+5.	What are three factors that determine that determine disk arm scheduling algorithm?(Seek time, rotational delay, actual data transfer time)
+6.	Working of SSTF, SCAN and C-LOOK.
+
+
+
